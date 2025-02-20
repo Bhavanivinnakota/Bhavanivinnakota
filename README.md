@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on any mern stack project or people  who are woking in the same domain
-- 📫 How to reach me -search Bhavani Vinnakota on linked inn
+- 📫 How to reach me -search Bhavanivinnakota on linked inn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
